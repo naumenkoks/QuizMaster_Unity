@@ -68,6 +68,7 @@ GameManager.cs: Coordinates UI and state reset across components
 QuestionSO.cs: ScriptableObject used to store question/answer data
 
 💬 Developer's Note
+
 This project helped me gain confidence in building a full UI flow from scratch in Unity, learning to handle user input, layout management, score logic, and modular C# scripting. 
 I'm especially proud of the clean architecture and professional feel of the final result. I'm now looking forward to applying these skills in real-world Unity development roles. 
 And of course, more fun and challenging questions are to be added to this quiz! :-)
